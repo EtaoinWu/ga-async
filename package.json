@@ -1,0 +1,17 @@
+{
+  "name": "ga",
+  "version": "1.0.0",
+  "description": "google analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EtaoinWu",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "request": "^2.81.0",
+    "uuid": "^3.1.0"
+  }
+}
